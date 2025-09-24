@@ -1,4 +1,4 @@
-const phoneBook = [ // масив обєктівgit commit -m "first commit"
+const phoneBook = [ // масив обєктівgit 
     {name : "Andrey" , phone : "+491517244980" },
     {name : "Oleksandr" , phone : "+380689980025"}, 
     {name : "Oleksiy" , phone : "+38098065684"},
