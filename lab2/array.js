@@ -1,4 +1,4 @@
-const phoneBook = [ // масив обєктівgit 
+const phoneBook = [ // масив обєктів
     {name : "Andrey" , phone : "+491517244980" },
     {name : "Oleksandr" , phone : "+380689980025"}, 
     {name : "Oleksiy" , phone : "+38098065684"},
